@@ -1,4 +1,4 @@
-.. Valia's course documentation master file, created by
+﻿.. Valia's course documentation master file, created by
    sphinx-quickstart on Fri Mar  4 15:06:05 2016.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -8,6 +8,7 @@
 #######################################################################################
 
 **14-15 Noviembre, La Habana, Cuba**
+
 
 El capítulo cubano de Neurofisiología Clínica (CC-NFC) tiene el gusto de
 invitarlos a participar en el 1er curso-taller latinoamericano de
@@ -19,7 +20,7 @@ La Habana, Cuba.
 Coordinadores del Curso
 ***********************
 
-* Dr Valia Rodriguez, Centro de Neurociencias de Cuba
+* Dr Valia Rodríguez, Centro de Neurociencias de Cuba
 * Dr Suzette M LaRoche, Mission Health, Asheville-Carolina del Norte, EUA
 
 ***********
