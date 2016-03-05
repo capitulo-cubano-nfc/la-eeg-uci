@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Valia\'s course'
+project = u'LA-EEG-UCI'
 copyright = u'2016, Valia Rodriguez Rodriguez'
 author = u'Valia Rodriguez Rodriguez'
 
@@ -65,7 +65,7 @@ release = u'1.0'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = "es"
 
 # There are two options for replacing |today|: either, you set today to some
 # non-false value, then it is used:
@@ -109,7 +109,7 @@ todo_include_todos = False
 
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
-html_theme = 'alabaster'
+html_theme = 'bizstyle'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -121,7 +121,7 @@ html_theme = 'alabaster'
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
-#html_title = None
+html_title = u'Curso LA de Monitorización de EEGc-UCI'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #html_short_title = None
@@ -154,7 +154,7 @@ html_static_path = ['_static']
 #html_use_smartypants = True
 
 # Custom sidebar templates, maps document names to template names.
-#html_sidebars = {}
+html_sidebars = {'**': ['uci_sidebar.html']}
 
 # Additional templates that should be rendered to pages, maps page names to
 # template names.
