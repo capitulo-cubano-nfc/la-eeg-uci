@@ -7,6 +7,8 @@
 1er Curso Latinoamericano de Monitorización de EEG continuo en los cuidados intensivos
 #######################################################################################
 
+**14-15 Noviembre, La Habana, Cuba**
+
 El capítulo cubano de Neurofisiología Clínica (CC-NFC) tiene el gusto de
 invitarlos a participar en el 1er curso-taller latinoamericano de
 Monitorización de EEG continuo -EEGc- en Unidades de Cuidados Intensivos
