@@ -1,0 +1,11 @@
+<h3>Quick links</h3>
+
+<ul>
+    <li><a href="http://neurofisclin-cuba.webs.com/">Capítulo Cubano - Neurofisiología Clínica</a>
+    <li><a href="index.html">Inicio</a>
+</ul>
+
+{% block sidebartoc %}
+<h3>{{ _('Table Of Contents') }}</h3>
+{{ toctree(includehidden=True) }}
+{% endblock %}
