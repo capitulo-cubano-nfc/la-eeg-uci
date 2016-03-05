@@ -1,0 +1,39 @@
+######################
+Profesores Confirmados
+######################
+
+*********************
+Suzette M Laroche, MD
+*********************
+
+.. image:: images/LaRoche.jpg
+    :width: 100 px
+
+* Profesor Asociado de Neurología – Mission Health, Asheville Carolina del Norte
+* Experto en Monitorización de EEG continuo en UCI
+* Miembro del Ejecutivo de la Sociedad Norteamericana de Neurofisiología Clínica
+* Ex-Director del Consorcio de Investigación con EEG en los cuidados críticos
+* Editor del Handbook of ICU EEG Monitoring, 2013 Demos Publishing
+
+*****************
+Sarah Schmitt, MD
+*****************
+
+.. image:: images/Schmitt-Sarah-Neurology.jpg
+    :width: 100 px
+
+* Profesor Asociado de Neurología – Universidad Médica de Carolina del Sur
+* Experto en Monitorización de EEG continuo en UCI
+* Miembro de la Sociedad Norteamericana de Neurofisiología Clínica
+* Miembro del Consorcio de Investigación con EEG en los cuidados críticos
+
+***********************
+Valia Rodriguez, MD PhD
+***********************
+
+.. image:: images/Valia_Rodriguez.png
+    :width: 100 px
+
+* Profesor e Investigador Titular en Centro de Neurociencias de Cuba.
+* Neurofisiólogo Clínico en Unidad de Cuidados Intensivos, Hospital Hnos Ameijeiras, La Habana
+* Miembro del Ejecutivo del Capítulo Cubano de Neurofisiología Clínica

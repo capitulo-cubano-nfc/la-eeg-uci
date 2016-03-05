@@ -1,0 +1,42 @@
+###################
+Programa preliminar
+###################
+
+***********
+Primer día
+***********
+
+#. Crisis epilépticas en UCI
+    * Crisis en neonatos
+    * Crisis en niños
+    * Crisis en adultos
+#. Interpretación del EEG
+    * El EEG de base
+        * EEG de base en neonatos
+        * EEG de base en niños
+        * EEG de base en adultos
+    * Patrones periódicos y rítmicos
+    * Crisis electrográficas
+    * Detección de isquemia
+#. Los artefactos en la UCI
+#. Discusión
+
+************
+Segundo día
+************
+
+#. EEG cuantitativo
+#. Manejo de las crisis y el estatus epiléptico en UCI
+    * Manejo en el neonato
+    * Manejo en niños
+    * Manejo en adultos
+#. EEG y Pronóstico
+     * Pronóstico en el neonato y los niños
+     * Pronóstico en adultos
+#. Presentación de casos (crisis epilépticas e isquemia)
+     * casos de crisis
+     * casos de isquemia
+#. Equipamiento, uso de redes, electrodos y montajes
+#. Otras técnicas de neuromonitoreo en UCI
+#. Guías para la interpretación y reporte de resultados del EEGc en UCI
+#. Discusión
