@@ -2,10 +2,13 @@
 
 <ul>
     <li><a href="http://neurofisclin-cuba.webs.com/">Capítulo Cubano - Neurofisiología Clínica</a>
-    <li><a href="index.html">Inicio</a>
 </ul>
 
+<h3>Curso</h3>
+<ul>
+    <li><a href="index.html">Inicio</a>
+</ul>
 {% block sidebartoc %}
-<h3>{{ _('Table Of Contents') }}</h3>
+<h4>{{ _('Table Of Contents') }}</h4>
 {{ toctree(includehidden=True) }}
 {% endblock %}
