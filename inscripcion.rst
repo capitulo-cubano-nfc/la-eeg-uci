@@ -35,11 +35,13 @@ Costo del Curso
 +---------+--------------------------------------+------------------------------------------------------+
 
 **Nota:**
-* 1 CUC ~ 1.03360 USD - más el 10% de impuesto sobre el cambio de USD a CUC**
-* 1 CUC ~ 1.06483 EUROS**
+
+* 1 CUC ~ 1.03360 USD - más el 10% de impuesto sobre el cambio de USD a CUC*
+
+* 1 CUC ~ 1.06483 EUROS*
 
 
-* La cuota de inscripción puede ser abonada 'onsite' o pagarse por adelantado a través de banca electrónica.
+La cuota de inscripción puede ser abonada 'onsite' o pagarse por adelantado a través de banca electrónica.
 
 
 
