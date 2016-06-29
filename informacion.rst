@@ -26,7 +26,7 @@ Información sobre La Habana
 
 **Para información relacionada con la circulación monetaria en Cuba**
 
-`Moneda <http://www.xe.com/es/currency/cuc-cuban-convertible-peso>`_
+`Cambio Monetario en Cuba <http://www.bc.gob.cu/Espanol/tipo_cambio_METROPOLITANO.asp>`_
 
 
 
