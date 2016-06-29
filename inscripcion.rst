@@ -44,7 +44,6 @@ Costo del Curso
 La cuota de inscripción puede ser abonada 'onsite' o pagarse por adelantado a través de banca electrónica.
 
 
-
 **Información sobre el pago de cuota de inscripción**
 
 * El **pago 'onsite' en CUC** puede realizarse **a partir del 1 de Septiembre** en el Consejo Nacional de Sociedades Científicas con sede en calle 2 No-358 entre 15 y 17 Vedado Plaza La Habana.
