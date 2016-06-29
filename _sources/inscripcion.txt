@@ -21,23 +21,27 @@ La solicitud de inscripción debe enviarse por email a la dirección: taller.eeg
 Costo del Curso
 ***************
 
-+---------+--------------------------------------+--------------------------------------------+
-|         | Participantes en Cuba - Cubanos o    | Participantes residiendo fuera de Cuba     |
-|         | extrajeros no autofinanciados        | o residentes en Cuba autofinanciados       |
-+=========+======================================+============================================+
-| 1er día | 100 CUP                              | 50 CUC = 57 USD    (hasta del 1 de Octubre)|
-|         |                                      +--------------------------------------------+
-|         |                                      | 70 CUC = 80 USD  (después del 1 de Octubre)|
-+---------+--------------------------------------+--------------------------------------------+
-| 2do día | 100 CUP                              | 50 CUC = 57 USD    (hasta del 1 de Octubre)|
-|         |                                      +--------------------------------------------+
-|         |                                      | 70 CUC = 80 USD  (después del 1 de Octubre)|
-+---------+--------------------------------------+--------------------------------------------+
++---------+--------------------------------------+------------------------------------------------------+
+|         | Participantes en Cuba - Cubanos o    | Participantes residiendo fuera de Cuba               |
+|         | extrajeros no autofinanciados        | o residentes en Cuba autofinanciados                 |
++=========+======================================+======================================================+
+| 1er día | 100 CUP                              | 50 CUC ~ 57 USD ~ 53 EUROS   (hasta del 1 de Octubre)|
+|         |                                      +------------------------------------------------------+
+|         |                                      | 70 CUC ~ 80 USD ~ 75 EUROS (después del 1 de Octubre)|
++---------+--------------------------------------+------------------------------------------------------+
+| 2do día | 100 CUP                              | 50 CUC ~ 57 USD ~ 53 EUROS  (hasta del 1 de Octubre) |
+|         |                                      +------------------------------------------------------+
+|         |                                      | 70 CUC ~ 80 USD ~ 75 EUROS (después del 1 de Octubre)|
++---------+--------------------------------------+------------------------------------------------------+
 
-**Nota: 1 CUC ~ 1.03360 USD - más el 10% de impuesto sobre el cambio de USD a CUC**
+**Nota:**
 
-* La cuota de inscripción puede ser abonada 'onsite' o pagarse por adelantado a través de banca electrónica.
+* 1 CUC ~ 1.03360 USD - más el 10% de impuesto sobre el cambio de USD a CUC*
 
+* 1 CUC ~ 1.06483 EUROS*
+
+
+La cuota de inscripción puede ser abonada 'onsite' o pagarse por adelantado a través de banca electrónica.
 
 
 **Información sobre el pago de cuota de inscripción**

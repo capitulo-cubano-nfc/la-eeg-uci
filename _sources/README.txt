@@ -10,6 +10,10 @@ To get all the latest changes from github::
 
     git pull
 
+To see what needs to be done
+
+    git status
+
 Change what you want to change in the ``c:\Users\valia\la-eeg-uci`` folder.
 
 Check what changes you have made to the files with::
