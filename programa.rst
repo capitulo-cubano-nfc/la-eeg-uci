@@ -1,54 +1,71 @@
-###################
-Programa preliminar
-###################
+﻿########
+Programa
+########
 
-***********
-Primer día
-***********
 
-#. Crisis epilépticas en UCI
+**Lunes 14 Noviembre**
 
-   * Crisis en neonatos
-   * Crisis en niños
-   * Crisis en adultos
+8:15-8:30	- Introducción - Valia Rodriguez
 
-#. Interpretación del EEG
+8:30-9:00	- Indicaciones, Protocolos y Guías para la monitorización de EEG continuo en UCI - Suzette LaRoche
 
-   * El EEG de base
+9:00-9:30	- Consideraciones técnicas: equipamiento y personal - Susan Herman
 
-     * EEG de base en neonatos
-     * EEG de base en niños
-     * EEG de base en adultos
+9:30-10:20	- El EEG de base en neonatos y niños - Andreas Lowden
 
-   * Patrones periódicos y rítmicos
-   * Crisis electrográficas
-   * Detección de isquemia
+10:20-10:50	- Receso
 
-#. Los artefactos en la UCI
-#. Discusión
+10:50-11:40	- El EEG de base en adultos - Suzette LaRoche
 
-************
-Segundo día
-************
+11:40-12:10	- Discusión
 
-#. EEG cuantitativo
-#. Manejo de las crisis y el estatus epiléptico en UCI
+12:10-12:40	- Presentación de casos- Naymee Veliz-Ruiz
 
-   * Manejo en el neonato
-   * Manejo en niños
-   * Manejo en adultos
+12:40-13:40	- Almuerzo
 
-#. EEG y Pronóstico
+13:50-14:20	- Patrones periódicos y rítmicos. Terminología - Suzette LaRoche
 
-   * Pronóstico en el neonato y los niños
-   * Pronóstico en adultos
+14:20-15:10	- Crisis y estatus epiléptico en adultos - Emily Gilmore
 
-#. Presentación de casos (crisis epilépticas e isquemia)
+15:10-16:00	- Crisis y estatus epiléptico en neonatos y niños - Andrea Lowden
 
-   * Casos de crisis
-   * Casos de isquemia
+16:00-16:30	- Receso
 
-#. Equipamiento, uso de redes, electrodos y montajes
-#. Otras técnicas de neuromonitoreo en UCI
-#. Guías para la interpretación y reporte de resultados del EEGc en UCI
-#. Discusión
+16:30-17:00	- El continuo ictal-interictal - Valia Rodriguez
+
+17:00-17:30	- Discusión
+
+17:30-18:00	- Presentación de casos- Naymee Veliz-Ruiz
+
+
+**Martes 15 Noviembre**
+
+8:30-9:20	- Estatus epiléptico refractario y el estatus epiléptico refractario de reciente instalación - Sarah Schmitt 
+
+9:20-10:10	- El EEG continuo como herramienta pronóstica en adultos - Susan Herman
+
+10:10-10:40	- Receso
+
+10:40-11:30	- El EEG continuo como herramienta pronóstica en neonatos y niños -  Andrea Lowden
+
+11:30-12:00	- Los artefactos en el EEG de la UCI - Sarah Schmitt
+
+12:00-12:30	- Discusión
+
+12:30-13:00	- Presentación de casos - Naymee Veliz-Ruiz
+
+13:00-14:00	- Almuerzo
+
+14:10-14:40	- Generalidades de EEG cuantitativo -  Valia Rodriguez 
+
+14:40-15:10	- El EEG cuantitativo en la detección de crisis -  Sarah Schmitt
+
+15:10-15:40	- El EEG cuantitativo en la detección de isquemia - Susan Herman 
+
+15:40-16:10	- Receso
+
+16:10-17:00	- Otras modalidades de neuromonitorización en la UCI – Emily Gilmore
+
+17:00-17:30	- Discusión
+
+17:30-18:00	- Resumen y relatoría del taller – Valia Rodriguez 

@@ -1,0 +1,38 @@
+﻿########
+Programa
+########
+
+
+**Lunes 14 Junio - AM**
+
+#. Indicaciones, Protocolos y Guías para la monitorización de EEG continuo en UCI - Suzette LaRoche
+#. Consideraciones técnicas – hardware y personal - Susan Herman
+#. El EEG de base en neonatos y niños - Andreas Lowden
+#. EL EEG de base en adultos - Suzette LaRoche 
+#. Presentación de casos- Naymee Veliz-Ruiz
+
+**Lunes 14 Junio - PM**
+
+#. Los artefactos en el EEG de la UCI - Sarah Schmitt
+#. Patrones periódicos y rítmicos. Terminología - Suzette LaRoche
+#. Crisis y estatus epiléptico en adultos - Emily Gilmore 
+#. Crisis y estatis epiléptico en neonatos y niños - Andrea Lowden
+#. Presentación de casos- Naymee Veliz-Ruiz
+
+
+**Martes 15 Junio - AM**
+
+#. Estatus epiléptico refractario y el estatus epiléptico refractario de reciente instalación - Sarah Schmitt 
+#. El continuo ictal-interictal - Valia Rodriguez 
+#. El EEG continuo como herramienta pronóstica en adultos - Susan Herman
+#. El EEG continuo como herramienta pronóstica en neonatos y niños -  Andrea Lowden
+#. Presentación de casos - Naymee Veliz-Ruiz
+
+
+**Martes 15 Junio - PM**
+
+#. Generalidades de EEG cuantitativo -  Valia Rodriguez 
+#. El EEG cuantitativo en la detección de crisis -  Sarah Schmitt
+#. El EEG cuantitativo en la detección de isquemia - Susan Herman 
+#. Otras modalidades de neuromonitorización en la UCI – Emily Gilmore
+#. Resumen del taller – Valia Rodriguez 

@@ -2,40 +2,56 @@
 Inscripciones
 #############
 
-Las solicitudes de inscripciones deben enviarse por email a:
-valia.rodriguez@gmail.com adjuntando la planilla que puede descargar en este
-enlace:
+************************
+Solicitud de Inscripción
+************************
+
+**Abiertas a partir del 1ro de Julio del 2016**
+
+La solicitud de inscripción debe enviarse por email a la dirección: taller.eegc.habana@gmail.com adjuntando la planilla que puede descargar en los enlaces siguientes:
 
 * :download:`solicitud_de_inscripcion.pdf` 
 * :download:`solicitud_de_inscripcion.doc`.
+
+
+**Aunque el pago de la inscripción se realice 'onsite' se recomienda el envío de la solicitud de inscripción con antelación a la fecha de inicio del taller para garantizar la disponibilidad de la plaza.**
+
 
 ***************
 Costo del Curso
 ***************
 
-+---------+--------------------------------------+------------------------------------+
-|         | Participantes en Cuba - Cubanos o    | Participantes residiendo           |
-|         | extrajeros no autofinanciados        | fuera de Cuba o autofinanciados    |
-+=========+======================================+====================================+
-| 1er día | 100 CUP                              | 50 CUC     (antes del 1 de Octubre)|
-|         |                                      +------------------------------------+
-|         |                                      | 70 CUC   (después del 1 de Octubre)|
-+---------+--------------------------------------+------------------------------------+
-| 2do día | 100 CUP                              | 50 CUC     (antes del 1 de Octubre)|
-|         |                                      +------------------------------------+
-|         |                                      | 70 CUC   (después del 1 de Octubre)|
-+---------+--------------------------------------+------------------------------------+
++---------+--------------------------------------+--------------------------------------------+
+|         | Participantes en Cuba - Cubanos o    | Participantes residiendo fuera de Cuba     |
+|         | extrajeros no autofinanciados        | o residentes en Cuba autofinanciados       |
++=========+======================================+============================================+
+| 1er día | 100 CUP                              | 50 CUC = 57 USD    (hasta del 1 de Octubre)|
+|         |                                      +--------------------------------------------+
+|         |                                      | 70 CUC = 80 USD  (después del 1 de Octubre)|
++---------+--------------------------------------+--------------------------------------------+
+| 2do día | 100 CUP                              | 50 CUC = 57 USD    (hasta del 1 de Octubre)|
+|         |                                      +--------------------------------------------+
+|         |                                      | 70 CUC = 80 USD  (después del 1 de Octubre)|
++---------+--------------------------------------+--------------------------------------------+
 
-**Nota: 1 CUC = 1 USD**
+**Nota: 1 CUC ~ 1.03360 USD - más el 10% de impuesto sobre el cambio de USD a CUC**
 
-El curso puede ser abonado 'onsite' o pagarse por adelantado a través de banca
-electrónica. Los detalles del pago electrónico serán anunciados proximamente.
+* La cuota de inscripción puede ser abonada 'onsite' o pagarse por adelantado a través de banca electrónica.
 
 
-********************************************
-Solicitud de inscripciones
-********************************************
 
-Abiertas a partir del 1ro de Julio del 2016
+**Información sobre el pago de cuota de inscripción**
 
-Cierre de Solicitud de Inscripción: 1 de Noviembre del 2016
+* El **pago 'onsite' en CUC** puede realizarse **a partir del 1 de Septiembre** en el Consejo Nacional de Sociedades Científicas con sede en calle 2 No-358 entre 15 y 17 Vedado Plaza La Habana.
+
+* El **pago 'onsite' en CUP** se realizará **a partir del 1 de Noviembre**  en el Consejo Nacional de Sociedades Científicas. La presentación de la carta de aceptación en el taller es mandatoria para realizar el pago de la cuota de inscripción.
+
+* Dado el número limitado de plazas **la inscripción de nacionales cubanos o de residentes no cubanos no autofinanciados será previa selección**. La notificación de aceptación de participación será enviada por correo electrónico a partir del 1 de Octubre.
+
+* Los residentes de especialidades médicas no cubanos y no autofinanciados deben presentar -sin excepciones- para el pago de la cuota de inscripción en CUP una carta firmada y acuñada por el Jefe del Departamento de Postgrado de su hospital o institución de salud que avale su condición de médico residente no-autofinanciado.
+
+
+****************
+Pago Electrónico
+****************
+ Los detalles del pago electrónico serán anunciados en las próximas semanas.
