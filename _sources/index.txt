@@ -4,21 +4,21 @@
    contain the root `toctree` directive.
 
 #######################################################################################
-1er Curso Latinoamericano de Monitorización de EEG continuo en los cuidados intensivos
+1er Taller Latinoamericano de Monitorización de EEG continuo en los cuidados intensivos
 #######################################################################################
 
 **14-15 Noviembre, La Habana, Cuba**
 
 
 El capítulo cubano de Neurofisiología Clínica (CC-NFC) tiene el gusto de
-invitarlos a participar en el 1er curso-taller latinoamericano de
+invitarlos a participar en el 1er Taller Latinoamericano de
 Monitorización de EEG continuo -EEGc- en Unidades de Cuidados Intensivos
 (UCI), el cual se realizará los días 14 y 15 de Noviembre del año en curso en
 La Habana, Cuba.
 
-***********************
-Coordinadores del Curso
-***********************
+*************
+Coordinadores
+*************
 
 * Dr Valia Rodríguez, Centro de Neurociencias de Cuba
 * Dr Suzette M LaRoche, Mission Health, Asheville-Carolina del Norte, EUA
@@ -28,8 +28,7 @@ Motivación
 ***********
 
 La monitorización de EEG continuo en los cuidados intesivos es un campo de la
-monitorización neurofisiológica que ha crecido y expandido significativamente
-en los últimos 10 años dada su utilidad en la evaluación neurológica del
+monitorización neurofisiológica que ha crecido y expandido en los últimos 10 años dada su utilidad en la evaluación neurológica del
 paciente grave. Sin embargo existe gran disparidad en la práctica y uso de
 esta técnica entre instituciones y los propios profesionales. El nivel de
 conocimiento y experticidad en la interpretación en tiempo real -o casi real-
@@ -48,32 +47,35 @@ tópicos relacionados con este tipo de monitorización es una prueba objetiva de
 ello.  Pensamos que entre las razones fundamentales que han contribuido al
 atraso tecnológico de la región están la falta de consciencia general de la
 potencialidad de la técnica y el acceso limitado a programas de educación
-continuada en este tema. Es así que este 1er curso-taller latinoamericano
+continuada en este tema. Es así que este 1er taller latinoamericano
 organizado en La Habana para Noviembre próximo es un primer esfuerzo para
 comenzar a entrenar a los profesionales de nuestra región de forma continuada
-en esta temática. Las conferencias del curso-taller serán dictadas por
+en esta temática. Las conferencias del taller serán dictadas por
 expertos del campo, gracias a la colaboración de miembros de la Sociedad
 Norteamericana de Neurofisiología Clínica (ACNS). Los participantes tendrán
 además la posibilidad de interactuar con los expertos en presentaciones de
-casos, discusiones y recesos.  La monitorización de EEG continuo en UCI fue
-introducida en Cuba en el 2010. Desde entonces hemos ganado experiencia no
+casos, discusiones y recesos. 
+ 
+La monitorización de EEG continuo en UCI fue introducida en Cuba en el 2010. Desde entonces hemos ganado experiencia no
 sólo en el uso de la técnica en si misma sino además en la organización y
-desarrollo de cursos en esta temática para educar a nuestros neurofisiólogos
+desarrollo de cursos o talleres en esta temática para educar a nuestros neurofisiólogos
 clínicos, neurólogos y el personal médico de los cuidados intensivos. Hasta la
-fecha hemos organizado 4 cursos nacionales en la temática realizados entre el
-2013 – 2015 en los cuales han participado un total de 200 especialistas.
-Específicamente en el curso realizado en Noviembre del 2014 contamos con la
-colaboración de las Dras Suzette Laroche y Sarah Schmitt las cuales son
-expertas dentro de este campo y pertenecen a la Sociedad Norteamericana de
-Neurofisiología Clínica. Estos cursos previos nos ponen en posición de
-enfrentar con éxito la realización de un curso más ambicioso dirigido a toda
-la región.  Es así que el curso-taller del próximo mes de Noviembre será
-organizado en dos días a tiempo completo. Los temas se presentarán a modo de
-conferencias y serán reforzados durante sesiones prácticas (presentaciones de
-casos & discusiones). Estamos convencidos que el éxito de este curso-taller -y
-de cursos sucesivos- influirá en el nivel y calidad de la atención médica
-dentro de la región.
+fecha hemos organizado 4 cursos/talleres nacionales en la temática realizados entre el
+2013 – 2015 en los cuales han participado un total de 200 especialistas. Estos eventos previos nos ponen en posición de
+enfrentar con éxito la realización de un taller más ambicioso dirigido a toda
+la región. Estamos convencidos que el éxito de este taller -y
+de otros sucesivos- influirá en el nivel y calidad de la atención médica
+en la America Latina.
 
+
+***********************
+Organización del Taller
+***********************
+El taller estará organizado en conferencias, presentaciones de casos y discusiones que cubrirán dos jornadas -días- de trabajo a tiempo completo.
+
+Los idiomas oficiales del taller serán el inglés y el español.
+
+Para las sesiones de discusión, así como para las preguntas y respuestas, se contará con servicio de traducción.
 
 ***********
 Dirigido a:
@@ -86,8 +88,7 @@ Dirigido a:
 ****
 Sede
 ****
-
-*TBA*
+Hotel Palco, La Habana, Cuba
 
 .. The section below is useful to prevent warnings about pages not included
 
@@ -97,5 +98,6 @@ Sede
     profesores
     programa
     inscripcion
-    auspiciadores
+    auspician
     alojamiento
+    informacion
