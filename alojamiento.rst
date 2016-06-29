@@ -11,5 +11,7 @@ Debajo listamos algunos sitios que pueden ser de utilidad para encontrar alojami
 
 `Sitio de Casas y Habitaciones en La Habana **Casas Cubanas** <http://www.casascubanas.com/w/es/front/search/1/all/3/24/all/all/all/1/1/all/all>`_
 
-`Hoteles en La Habana <http://www.solwayscuba.com/hotels/la-habana/>`_ 
+`Hoteles en La Habana - Solways <http://www.solwayscuba.com/hotels/la-habana/>`_ 
+
+`Hoteles en La Habana - Havanatur <http://es.havanatur.com/>`_
 
