@@ -21,22 +21,24 @@ La solicitud de inscripción debe enviarse por email a la dirección: taller.eeg
 Costo del Curso
 ***************
 
-+---------+--------------------------------------+------------------------------------------------------+
-|         | Participantes en Cuba - Cubanos o    | Participantes residiendo fuera de Cuba               |
-|         | extrajeros no autofinanciados        | o residentes en Cuba autofinanciados                 |
-+=========+======================================+======================================================+
-| 1er día | 100 CUP                              | 50 CUC ~ 57 USD ~ 53 EUROS   (hasta del 1 de Octubre)|
-|         |                                      +------------------------------------------------------+
-|         |                                      | 70 CUC ~ 80 USD ~ 75 EUROS (después del 1 de Octubre)|
-+---------+--------------------------------------+------------------------------------------------------+
-| 2do día | 100 CUP                              | 50 CUC ~ 57 USD ~ 53 EUROS  (hasta del 1 de Octubre) |
-|         |                                      +------------------------------------------------------+
-|         |                                      | 70 CUC ~ 80 USD ~ 75 EUROS (después del 1 de Octubre)|
-+---------+--------------------------------------+------------------------------------------------------+
++---------+--------------------------------------+-----------------------------------------------+
+|         | Participantes en Cuba - Cubanos o    | Participantes residiendo fuera de Cuba        |
+|         | extrajeros no autofinanciados        | o residentes en Cuba autofinanciados          |
++=========+======================================+===============================================+
+| 1er día | 100 CUP                              | 50 CUC = 53 EUROS     (hasta del 1 de Octubre)|
+|         |                                      +-----------------------------------------------+
+|         |                                      | 70 CUC = 75 EUROS   (después del 1 de Octubre)|
++---------+--------------------------------------+-----------------------------------------------+
+| 2do día | 100 CUP                              | 50 CUC = 53 EUROS    (hasta del 1 de Octubre) |
+|         |                                      +-----------------------------------------------+
+|         |                                      | 70 CUC = 75 EUROS   (después del 1 de Octubre)|
++---------+--------------------------------------+-----------------------------------------------+
+| Ambos   | 200 CUP                              | 100 CUC = 106 EUROS  (hasta del 1 de Octubre) | 
+|         |                                      +-----------------------------------------------+     
+| días    |                                      | 140 CUC = 150 EUROS  (hasta del 1 de Octubre) |      
++---------+--------------------------------------+-----------------------------------------------+
 
 **Nota:**
-
-* 1 CUC ~ 1.03360 USD - más el 10% de impuesto sobre el cambio de USD a CUC*
 
 * 1 CUC ~ 1.06483 EUROS*
 
@@ -50,7 +52,7 @@ La cuota de inscripción puede ser abonada 'onsite' o pagarse por adelantado a t
 
 * El **pago 'onsite' en CUP** se realizará **a partir del 1 de Noviembre**  en el Consejo Nacional de Sociedades Científicas. La presentación de la carta de aceptación en el taller es mandatoria para realizar el pago de la cuota de inscripción.
 
-* Dado el número limitado de plazas **la inscripción de nacionales cubanos o de residentes no cubanos no autofinanciados será previa selección**. La notificación de aceptación de participación será enviada por correo electrónico a partir del 1 de Octubre.
+* Dado el número limitado de plazas **la inscripción de nacionales cubanos o de residentes no cubanos no autofinanciados será previa selección**. La notificación de aceptación de participación será enviada por correo electrónico a partir del 1 de Septiembre.
 
 * Los residentes de especialidades médicas no cubanos y no autofinanciados deben presentar -sin excepciones- para el pago de la cuota de inscripción en CUP una carta firmada y acuñada por el Jefe del Departamento de Postgrado de su hospital o institución de salud que avale su condición de médico residente no-autofinanciado.
 
