@@ -88,7 +88,8 @@ Dirigido a:
 ****
 Sede
 ****
-Hotel Palco, La Habana, Cuba
+
+`Hotel Palco, La Habana, Cuba <http://www.solwayscuba.com/hoteles/la-habana/hotel-palco/>`_
 
 .. The section below is useful to prevent warnings about pages not included
 
