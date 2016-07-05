@@ -27,7 +27,7 @@ Coordinadores
 Motivación
 ***********
 
-La monitorización de EEG continuo en los cuidados intesivos es un campo de la
+La monitorización de EEG continuo en los cuidados intensivos es un campo de la
 monitorización neurofisiológica que ha crecido y expandido en los últimos 10 años dada su utilidad en la evaluación neurológica del
 paciente grave. Sin embargo existe gran disparidad en la práctica y uso de
 esta técnica entre instituciones y los propios profesionales. El nivel de
