@@ -1,71 +1,50 @@
-﻿########
-Programa
-########
+﻿#######################
+Conferencias Impartidas
+#######################
 
 
-**Lunes 14 Noviembre**
+**Indicaciones, Protocolos y Guías para la monitorización de EEG continuo en UCI** 
+* :download:`EEGc_guias.pdf` 
 
-8:15-8:30	- Introducción - Valia Rodriguez
+**Consideraciones técnicas: equipamiento y personal**
+* :download:`EEGc_tecnica.pdf` 
 
-8:30-9:00	- Indicaciones, Protocolos y Guías para la monitorización de EEG continuo en UCI - Suzette LaRoche
+**El EEG de base en neonatos y niños** 
+* :download:`EEG_neonatos_niños.pdf` 
 
-9:00-9:30	- Consideraciones técnicas: equipamiento y personal - Susan Herman
+**El EEG de base en adultos**
+* :download:`EEG_adultos.pdf` 
 
-9:30-10:20	- El EEG de base en neonatos y niños - Andreas Lowden
+**Patrones periódicos y rítmicos. Terminología** 
+* :download:`EEGc_terminologia.pdf` 
 
-10:20-10:50	- Receso
+**Crisis y estatus epiléptico en adultos**
+* :download:`StatusEpileptico_adulto.pdf` 
 
-10:50-11:40	- El EEG de base en adultos - Suzette LaRoche
+**Crisis y estatus epiléptico en neonatos y niños**
+* :download:`StatusEpileptico_adulto.pdf` 
 
-11:40-12:10	- Discusión
+**El continuo ictal**interictal**
+* :download:`EEGc_IIC.pdf` 
 
-12:10-12:40	- Presentación de casos- Naymee Veliz-Ruiz
+**Estatus epiléptico refractario y el estatus epiléptico refractario de reciente instalación**
+* :download:`StatusRefractario_NuevaAparicion.pdf` 
 
-12:40-13:40	- Almuerzo
+**El EEG continuo como herramienta pronóstica en adultos**
+* :download:`EEGc_pronostico_adultos.pdf` 
 
-13:50-14:20	- Patrones periódicos y rítmicos. Terminología - Suzette LaRoche
+**El EEG continuo como herramienta pronóstica en neonatos y niños**  * :download:`EEG_pronostico_neonatosniños.pdf` 
 
-14:20-15:10	- Crisis y estatus epiléptico en adultos - Emily Gilmore
+**Los artefactos en el EEG de la UCI**
+* :download:`EEGc_artefactosUCI.pdf` 
 
-15:10-16:00	- Crisis y estatus epiléptico en neonatos y niños - Andrea Lowden
+**Generalidades de EEG cuantitativo**
+* :download:`EEGc_cuantitativo.pdf` 
 
-16:00-16:30	- Receso
+**El EEG cuantitativo en la detección de crisis**
+* :download:`EEGc_cuantitativo_crisis.pdf`
 
-16:30-17:00	- El continuo ictal-interictal - Valia Rodriguez
+**El EEG cuantitativo en la detección de isquemia**
+* :download:`EEGc_cuantitativo_isquemia.pdf`
 
-17:00-17:30	- Discusión
-
-17:30-18:00	- Presentación de casos- Naymee Veliz-Ruiz
-
-
-**Martes 15 Noviembre**
-
-8:30-9:20	- Estatus epiléptico refractario y el estatus epiléptico refractario de reciente instalación - Sarah Schmitt 
-
-9:20-10:10	- El EEG continuo como herramienta pronóstica en adultos - Susan Herman
-
-10:10-10:40	- Receso
-
-10:40-11:30	- El EEG continuo como herramienta pronóstica en neonatos y niños -  Andrea Lowden
-
-11:30-12:00	- Los artefactos en el EEG de la UCI - Sarah Schmitt
-
-12:00-12:30	- Discusión
-
-12:30-13:00	- Presentación de casos - Naymee Veliz-Ruiz
-
-13:00-14:00	- Almuerzo
-
-14:10-14:40	- Generalidades de EEG cuantitativo -  Valia Rodriguez 
-
-14:40-15:10	- El EEG cuantitativo en la detección de crisis -  Sarah Schmitt
-
-15:10-15:40	- El EEG cuantitativo en la detección de isquemia - Susan Herman 
-
-15:40-16:10	- Receso
-
-16:10-17:00	- Otras modalidades de neuromonitorización en la UCI – Emily Gilmore
-
-17:00-17:30	- Discusión
-
-17:30-18:00	- Resumen y relatoría del taller – Valia Rodriguez 
+**Otras modalidades de neuromonitorización en la UCI**

@@ -6,7 +6,6 @@ Inscripciones
 Solicitud de Inscripción
 ************************
 
-**Abiertas a partir del 1ro de Julio del 2016**
 
 La solicitud de inscripción debe enviarse por email a la dirección: taller.eegc.habana@gmail.com adjuntando la planilla que puede descargar en los enlaces siguientes:
 
@@ -48,6 +47,8 @@ La cuota de inscripción puede ser abonada 'onsite' o pagarse por adelantado a t
 
 **Información sobre el pago de cuota de inscripción**
 
+* El **pago 'online'** se realizará en EUROS según las cuotas definidas en la sección **Costo del Curso**. Para más información `Pulse aquí <http://sonecub.solwayscuba.com/es/registration/accreditation_info>`_.
+
 * El **pago 'onsite' en CUC** puede realizarse **a partir del 1 de Septiembre** en el Consejo Nacional de Sociedades Científicas con sede en calle 2 No-358 entre 15 y 17 Vedado Plaza La Habana.
 
 * El **pago 'onsite' en CUP** se realizará **a partir del 1 de Noviembre**  en el Consejo Nacional de Sociedades Científicas. La presentación de la carta de aceptación en el taller es mandatoria para realizar el pago de la cuota de inscripción.
@@ -60,4 +61,5 @@ La cuota de inscripción puede ser abonada 'onsite' o pagarse por adelantado a t
 ****************
 Pago Electrónico
 ****************
- Los detalles del pago electrónico serán anunciados en las próximas semanas.
+
+En este enlace puede realizar el `**Pago Electrónico**  <http://sonecub.solwayscuba.com/es/registration/accreditation_form>`_ del Taller

@@ -1,6 +1,6 @@
-﻿######################
-Profesores Confirmados
-######################
+﻿##########
+Profesores
+##########
 
 *****************
 Andrea Lowden, MD
