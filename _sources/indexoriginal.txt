@@ -1,0 +1,105 @@
+﻿.. Valia's course documentation master file, created by
+   sphinx-quickstart on Fri Mar  4 15:06:05 2016.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+#######################################################################################
+1er Taller Latinoamericano de Monitorización de EEG continuo en los cuidados intensivos
+#######################################################################################
+
+**14-15 Noviembre, La Habana, Cuba**
+
+
+El capítulo cubano de Neurofisiología Clínica (CC-NFC) tiene el gusto de
+invitarlos a participar en el 1er Taller Latinoamericano de
+Monitorización de EEG continuo -EEGc- en Unidades de Cuidados Intensivos
+(UCI), el cual se realizará los días 14 y 15 de Noviembre del año en curso en
+La Habana, Cuba.
+
+*************
+Coordinadores
+*************
+
+* Dr Valia Rodríguez, Centro de Neurociencias de Cuba
+* Dr Suzette M LaRoche, Mission Health, Asheville-Carolina del Norte, EUA
+
+***********
+Motivación
+***********
+
+La monitorización de EEG continuo en los cuidados intensivos es un campo de la
+monitorización neurofisiológica que ha crecido y expandido en los últimos 10 años dada su utilidad en la evaluación neurológica del
+paciente grave. Sin embargo existe gran disparidad en la práctica y uso de
+esta técnica entre instituciones y los propios profesionales. El nivel de
+conocimiento y experticidad en la interpretación en tiempo real -o casi real-
+de los patrones que se encuentran durante la adquisición del EEGc no es sólo
+limitada sino también desigual entre países y regiones geográficas. Mientras
+que el número de instituciones en norteamérica (ie: EUA y Canadá) y algunos
+países europeos que utilizan el video-EEGc con todas sus ventajas actuales
+(ej: revisión/edición en línea y remota, análisis cuantitativo en línea,
+gráficos de tendencias, entre otras) han incrementado de forma significativa
+en los últimos 5 años, la mayoría de las instituciones de salud en América
+Latina -aún en el nivel terciario de atención- utilizan el EEG de rutina, de
+corta duración (por lo general menos de 2 hrs) con revisión sólo cualitativa
+del registro adquirido en UCI. El escaso número de artículos en revistas
+indexadas escritos por autores latinoamericanos en los cuales se abordan
+tópicos relacionados con este tipo de monitorización es una prueba objetiva de
+ello.  Pensamos que entre las razones fundamentales que han contribuido al
+atraso tecnológico de la región están la falta de consciencia general de la
+potencialidad de la técnica y el acceso limitado a programas de educación
+continuada en este tema. Es así que este 1er taller latinoamericano
+organizado en La Habana para Noviembre próximo es un primer esfuerzo para
+comenzar a entrenar a los profesionales de nuestra región de forma continuada
+en esta temática. Las conferencias del taller serán dictadas por
+expertos del campo, gracias a la colaboración de miembros de la Sociedad
+Norteamericana de Neurofisiología Clínica (ACNS). Los participantes tendrán
+además la posibilidad de interactuar con los expertos en presentaciones de
+casos, discusiones y recesos. 
+ 
+La monitorización de EEG continuo en UCI fue introducida en Cuba en el 2010. Desde entonces hemos ganado experiencia no
+sólo en el uso de la técnica en si misma sino además en la organización y
+desarrollo de cursos o talleres en esta temática para educar a nuestros neurofisiólogos
+clínicos, neurólogos y el personal médico de los cuidados intensivos. Hasta la
+fecha hemos organizado 4 cursos/talleres nacionales en la temática realizados entre el
+2013 – 2015 en los cuales han participado un total de 200 especialistas. Estos eventos previos nos ponen en posición de
+enfrentar con éxito la realización de un taller más ambicioso dirigido a toda
+la región. Estamos convencidos que el éxito de este taller -y
+de otros sucesivos- influirá en el nivel y calidad de la atención médica
+en la America Latina.
+
+
+***********************
+Organización del Taller
+***********************
+El taller estará organizado en conferencias, presentaciones de casos y discusiones que cubrirán dos jornadas -días- de trabajo a tiempo completo.
+
+Los idiomas oficiales del taller serán el inglés y el español.
+
+Para las sesiones de discusión, así como para las preguntas y respuestas, se contará con servicio de traducción.
+
+***********
+Dirigido a:
+***********
+
+* especialistas y residentes de neurología, pediatría, neonatología,
+  neurofisiología clínica, cuidados intensivos/emergentes;
+* técnicos en neurofisiología clínica y enfermeras intensivistas.
+
+****
+Sede
+****
+
+`Hotel Palco, La Habana, Cuba <http://www.solwayscuba.com/hoteles/la-habana/hotel-palco/>`_
+
+.. The section below is useful to prevent warnings about pages not included
+
+.. toctree::
+    :hidden:
+
+    profesores
+    programa
+    inscripcion
+    auspician
+    alojamiento
+    informacion
+    relatoria
