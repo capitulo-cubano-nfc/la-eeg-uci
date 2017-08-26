@@ -1,50 +1,38 @@
 ﻿#######################
-Conferencias Impartidas
+Programa Preliminar
 #######################
 
 
-**Indicaciones, Protocolos y Guías para la monitorización de EEG continuo en UCI** 
-* :download:`EEGc_guias.pdf` 
+* Introducción a la monitorización de EEG en ICU en todas las edades (Overview of ICU EEG Monitoring All Ages)
 
-**Consideraciones técnicas: equipamiento y personal**
-* :download:`EEGc_tecnica.pdf` 
+* El EEG en adultos. Evaluación de la actividad de fondo, reactividad y patrones de sueño (cEEG Interpretation: Assessment of Background, Sleep, Reactivity)
 
-**El EEG de base en neonatos y niños** 
-* :download:`EEG_neonatos_niños.pdf` 
+* Crisis y estatus epiléptico en los adultos (Seizures and Status Epilepticus in Adults)
 
-**El EEG de base en adultos**
-* :download:`EEG_adultos.pdf` 
+* Patrones rítmicos  y periódicos. Terminologpia de la SANFC (Rhythmic & Periodic Patterns. ACNS Terminology)
 
-**Patrones periódicos y rítmicos. Terminología** 
-* :download:`EEGc_terminologia.pdf` 
+* El continuo ictal-interictal (Ictal – Interictal continuum)
 
-**Crisis y estatus epiléptico en adultos**
-* :download:`StatusEpileptico_adulto.pdf` 
+* Valor pronóstico del EEGc en el adulto grave (cEEG - Prognosis in Adults)
 
-**Crisis y estatus epiléptico en neonatos y niños**
-* :download:`StatusEpileptico_adulto.pdf` 
+* Manejo del estatus epiléptico refractario y el estatus superrefractario. Estatus epiléptico de inicio reciente (Management of Refractory & Super-Refractory Status Epilepticus. New onset Status Epilepticus)
 
-**El continuo ictal**interictal**
-* :download:`EEGc_IIC.pdf` 
+* El EEGc en neonatos (cEEG Interpretation in Neonates)
 
-**Estatus epiléptico refractario y el estatus epiléptico refractario de reciente instalación**
-* :download:`StatusRefractario_NuevaAparicion.pdf` 
+* El EEGc en edades pediátricas (cEEG Interpretation in Children)
 
-**El EEG continuo como herramienta pronóstica en adultos**
-* :download:`EEGc_pronostico_adultos.pdf` 
+* Manejo de las crisis y el estatus epiléptico en neonatos (Management of Seizures and Status in Neonates)
 
-**El EEG continuo como herramienta pronóstica en neonatos y niños**  * :download:`EEG_pronostico_neonatosniños.pdf` 
+* Manejo de las crisis y el estatus epiléptico en edades pediátricas (Management of Seizures and Status in Children)
 
-**Los artefactos en el EEG de la UCI**
-* :download:`EEGc_artefactosUCI.pdf` 
+* Valor pronóstico del EEGc en neonatos y edades pediátricas (cEEG - Prognosis in Children & Neonates)
 
-**Generalidades de EEG cuantitativo**
-* :download:`EEGc_cuantitativo.pdf` 
+* EEG cuantitativo. Herramientas y métodos disponibles para la monitorización en UCI (Quantitative EEG - Overview of Available Tools & Uses)
 
-**El EEG cuantitativo en la detección de crisis**
-* :download:`EEGc_cuantitativo_crisis.pdf`
+* El EEG cuantitativo en la detección de crisis (QEEG: Seizure Recognition Tutorial/Case Review)
 
-**El EEG cuantitativo en la detección de isquemia**
-* :download:`EEGc_cuantitativo_isquemia.pdf`
+* El EEG cuantitativo en la detección de isquemia (QEEG: Ischemia Detection)
 
-**Otras modalidades de neuromonitorización en la UCI**
+* Guías de la SANFC para la monitorización de EEGc en UCI (ICU EEG Guidelines)
+
+* Otros tipo de neuromonitorizacion en ICU (Multimodal monitoring in ICU)
