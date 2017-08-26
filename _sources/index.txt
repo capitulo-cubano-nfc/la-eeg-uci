@@ -19,7 +19,13 @@ Monitorización de EEG continuo -EEGc- en Unidades de Cuidados Intensivos (UCI),
 Coordinadores
 *************
 
-* Dr Jaime Arango, Sociedad Mexicana de Neurofisiología Clínica
+**Nacionales**
+* Dr Mario Ulises Avila Ordoñez
+* Dr Jaime Arango Aguilar
+* Dr Daniel San Juan Orta
+* Dr Sabiono Suárez Hortiales
+
+**Externos**
 * Dr Valia Rodríguez, Sociedad Cubana de Neurofisiología Clínica
 * Dr Suzette M LaRoche, Sociedad Americana de Neurofisiología Clínica
 
