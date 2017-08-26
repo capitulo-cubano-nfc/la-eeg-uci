@@ -6,6 +6,12 @@ In ``cmd`` shell::
 
     cd c:\Users\valia\la-eeg-uci
 
+To set the proxy::
+
+   set_proxy
+
+If you need to edit password etc, see c:\bin\set_proxy.bat
+
 To get all the latest changes from github::
 
     git pull

@@ -5,28 +5,28 @@ Información de Interés
 
 
 ===========
-Hotel Palco
+Hotel Galería Plaza
 ===========
 
 .. raw:: html
 
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15539.27277894257!2d-82.45487368470425!3d23.096580763796254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88cd7138aa5a61f5%3A0x24a1807c284e6dff!2sHotel+Palco!5e0!3m2!1sen!2suk!4v1467206236533" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3762.7090209097732!2d-99.16996088561424!3d19.424974386888614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d1ff49bcf0e221%3A0x1a1288424daea159!2sHotel+Galeria+Plaza+Reforma+%7C+Ciudad+de+M%C3%A9xico!5e0!3m2!1sen!2suk!4v1503745017566" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 ===========================
-Información sobre La Habana
+Información sobre Ciudad México
 ===========================
 
-**Datos Generales**
+`Visitando Ciudad México <https://www.tripadvisor.com.ar/Tourism-g150800-Mexico_City_Central_Mexico_and_Gulf_Coast-Vacations.html>`_
 
-`Visitando Cuba <http://www.visitarcuba.org/que-ver-en-la-habana>`_
+`Sobre el clima en Noviembre <https://www.accuweather.com/es/mx/mexico-city/242560/november-weather/242560>`_
 
-`Sobre el clima en Noviembre <http://autenticacuba.com/es/clima/#axzz4CL68XaQA>`_
+`Sobre la celebración del Día de los Muertos
+<https://www.timeoutmexico.mx/ciudad-de-mexico/que-hacer/dia-de-muertos-en-la-ciudad-de-mexico>`_
 
-**Para información relacionada con la circulación monetaria en Cuba**
+`Cambio Monetario en México <http://cdmxtravel.com/es/organizate/moneda>`_
 
-`Cambio Monetario en Cuba <http://www.bc.gob.cu/Espanol/tipo_cambio_METROPOLITANO.asp>`_
+`Otras informaciones de interés <http://cdmxtravel.com/es/organizate/infobasica>`_
 
 
 

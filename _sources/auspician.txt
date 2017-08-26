@@ -21,10 +21,3 @@ Auspician
 `Sociedad Americana de Neurofisiología Clínica, ACNS <http://www.acns.org/>`_
 
 
-
-------------------------------------
-------------------------------------
-
-.. image:: images/CNEURO.jpg
-	:width: 100 px
-`Centro de Neurociencias de Cuba, CNEURO <http://www.cneuro.cu/cneuro/>`_

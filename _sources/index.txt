@@ -4,61 +4,81 @@
    contain the root `toctree` directive.
 
 #######################################################################################
-1er Taller Latinoamericano de Monitorización de EEG continuo en los cuidados intensivos
+2nd Taller Latinoamericano de Monitorización de EEG continuo en los cuidados intensivos
 #######################################################################################
 
-**14-15 Noviembre, La Habana, Cuba**
+**16-18 Noviembre 2017, Ciudad México, México**
 
 
-El capítulo cubano de Neurofisiología Clínica (CC-NFC) tuvo el gusto de
-organizar el 1er Taller Latinoamericano de Monitorización de EEG continuo -EEGc- en Unidades de Cuidados Intensivos (UCI), los días 14 y 15 de Noviembre del año en curso en La Habana, Cuba.
+La Sociedad Mexicana de Neurofisiología Clínica tiene el gusto de
+invitarlos a participar en el 2do Taller Latinoamericano de
+Monitorización de EEG continuo -EEGc- en Unidades de Cuidados Intensivos (UCI), el cual se realizará los días 16, 17 y 18 de Noviembre del año en curso en el Hotel Galería Plaza de la hermosa Ciudad México.
+
 
 *************
 Coordinadores
 *************
 
-* Dr Valia Rodríguez, Centro de Neurociencias de Cuba - Capítulo Cubano de Neurofisiología Clínica
-* Dr Suzette M LaRoche, Mission Health, Asheville-Carolina del Norte, EUA - Sociedad Americana de Neurofisiología Clínica
+* Dr Jaime Arango, Sociedad Mexicana de Neurofisiología Clínica
+* Dr Valia Rodríguez, Sociedad Cubana de Neurofisiología Clínica
+* Dr Suzette M LaRoche, Sociedad Americana de Neurofisiología Clínica
 
 ***********
-Relatoría
+Motivación
 ***********
 
-En el taller se impartieron 16 conferencias y se realizaron diversas presentaciones de casos que de forma interactiva contribuyeron al intercambio y acercamiento entre los participantes y el colectivo de profesores. En el enlace **Conferencias Impartidas** pueden acceder al contenido de las mismas en formato pdf.
+La monitorización de EEG continuo en los cuidados intensivos es un campo de la monitorización neurofisiológica que crece y se expande dada su utilidad en la evaluación neurológica del
+paciente grave. Sin embargo existe gran disparidad en la práctica y uso de
+esta técnica entre instituciones y profesionales. El nivel de
+conocimiento y experticidad en la interpretación en tiempo real -o casi real-
+de los patrones que se encuentran durante la adquisición del EEGc no es sólo
+limitada sino también desigual entre países y regiones geográficas. Mientras
+que el número de instituciones en norteamérica (ie: EUA y Canadá) y algunos
+países europeos que utilizan el video-EEGc con todas sus ventajas actuales
+(ej: revisión/edición en línea y remota, análisis cuantitativo en línea,
+gráficos de tendencias, entre otras) han incrementado de forma significativa
+en los últimos 5 años, la mayoría de las instituciones de salud en América
+Latina -aún en el nivel terciario de atención- utilizan el EEG de rutina, de
+corta duración (por lo general menos de 2 hrs) con revisión sólo cualitativa
+del registro adquirido en UCI. Pensamos que entre las razones fundamentales que han contribuido al
+atraso tecnológico de la región están la falta de consciencia general de la
+potencialidad de la técnica y el acceso limitado a programas de educación
+continuada en este tema. Es así que este taller itinerante, que tuvo su primera edición exitosa en Noviembre del 2016 en La Habana Cuba, forma parte del esfuerzo por entrenar y capacitar a los profesionales de nuestra región de forma continuada en esta temática. 
 
-El taller contó con 80 participantes de ellos 61 cubanos, 16 de hermanos países latino-americanos y 1 de África con la siguiente distribución por países:
+Las conferencias del taller serán dictadas por
+expertos del campo, gracias a la colaboración de miembros de sociedades latinoamericanas y de la Sociedad
+Norteamericana de Neurofisiología Clínica (SANFS, en inglés ACNS). Los participantes tendrán
+además la posibilidad de interactuar con los expertos en presentaciones de
+casos, discusiones y recesos. Este año además se realizarán 3 talleres prácticos al final de cada día donde los participantes tendrán la oportunidad de profundizar en diferentes temas.
 
-+-----------------+
-|  Argentina    2 |
-+-----------------+
-|  Angola       1 |
-+-----------------+
-|  Colombia     1 |
-+-----------------+
-|  Costa Rica   1 |
-+-----------------+
-|  Cuba        61 |
-+-----------------+
-|  Dominicana   1 |
-+-----------------+
-|  Ecuador      3 |
-+-----------------+
-|  Honduras     2 |
-+-----------------+
-|  México       2 |
-+-----------------+
-|  Perú         1 |
-+-----------------+
-|  Uruguay      3 |
-+-----------------+
-
-Diversas especialidades estuvieron representadas en el taller, entre ellas los cuidados intensivos, la neurología, la neurofisiología clínica, la pediatría y la neonatología. La representación de diversas disciplinas médicas fue uno de los propósitos del taller porque solo con una mejor comprensión de las ventajas de este tipo de monitorización por parte de todas las especialidades relacionadas se podrá verdaderamente trabajar por mejorar la calidad de la atención al paciente crítico.
-
-Dado el éxito y acogida de este evento el colectivo de profesores reunidos en este 1er Taller tiene el propósito de llevar el mismo a otros países del área para contribuir a la educación continuada de los profesionales de la región y a la difusión de las bondades de esta técnica.
+Estamos convencidos que el éxito de este taller -como el éxito de la edición anterior y de ediciones sucesivas- influirá en el nivel y calidad de la atención médica en la America Latina.
 
 
-.. image:: images/Taller.jpg
-    
+***********************
+Organización del Taller
+***********************
+El taller estará organizado en conferencias, presentaciones de casos, talleres prácticos y discusiones que cubrirán tres jornadas -días- de trabajo a tiempo completo.
+
+Los idiomas oficiales del taller serán el inglés y el español.
+
+Para las sesiones de discusión, así como para las preguntas y respuestas, se contará con servicio de traducción.
+
+
+***********
+Dirigido a:
+***********
+
+* especialistas y residentes de neurología, pediatría, neonatología,
+  neurofisiología clínica, cuidados intensivos/emergentes;
+* técnicos en neurofisiología clínica y enfermeras intensivistas.
+
+
+
+****
+Sede
+****
+
+`Hotel Galeria Plaza, Ciudad de Mexico, México <https://www.galeriaplazahotels.com.mx/es/reforma/gallery/>`_
 
 
 
@@ -69,4 +89,7 @@ Dado el éxito y acogida de este evento el colectivo de profesores reunidos en e
 
     profesores
     programa
-    
+    inscripcion
+    auspician
+    informacion
+    previo
