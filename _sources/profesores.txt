@@ -92,7 +92,7 @@ Suzette M Laroche, MD
 Valia Rodriguez, MD PhD
 ***********************
 
-.. image:: images/ValiaRodriguez.png
+.. image:: images/Valia.jpg
     :width: 100 px
 
 * Profesor de Neurofisiología Universidad de Aston, Birmingham. Profesor Adjunto del Centro de Neurociencias de Cuba.
