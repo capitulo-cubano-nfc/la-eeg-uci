@@ -3,9 +3,9 @@ Programa Preliminar
 #######################
 
 
-* Introducción a la monitorización de EEG en ICU en todas las edades (Overview of ICU EEG Monitoring All Ages)
+* Introducción a la monitorización de EEGc en UCI en todas las edades (Overview of ICU EEG Monitoring All Ages)
 
-* El EEG en adultos. Evaluación de la actividad de fondo, reactividad y patrones de sueño (cEEG Interpretation: Assessment of Background, Sleep, Reactivity)
+* El EEGc en adultos. Evaluación de la actividad de fondo, reactividad y patrones de sueño (cEEG Interpretation: Assessment of Background, Sleep, Reactivity)
 
 * Crisis y estatus epiléptico en los adultos (Seizures and Status Epilepticus in Adults)
 
@@ -35,4 +35,4 @@ Programa Preliminar
 
 * Guías de la SANFC para la monitorización de EEGc en UCI (ICU EEG Guidelines)
 
-* Otros tipo de neuromonitorizacion en ICU (Multimodal monitoring in ICU)
+* Otros tipo de neuromonitorizacion en UCI (Multimodal monitoring in ICU)
