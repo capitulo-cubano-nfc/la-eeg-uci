@@ -4,15 +4,21 @@
    contain the root `toctree` directive.
 
 #######################################################################################
-2nd Taller Latinoamericano de Monitorización de EEG continuo en los cuidados intensivos
+3rd Taller Latinoamericano de Monitorización de EEG continuo en los cuidados intensivos
 #######################################################################################
 
-**16-18 Noviembre 2017, Ciudad de México, México**
+**30 y 31 de Octubre 2018, Bogotá, Colombia**
 
 
-La Sociedad Mexicana de Neurofisiología Clínica tiene el gusto de
-invitarlos a participar en el 2do Taller Latinoamericano de
-Monitorización de EEG continuo -EEGc- en Unidades de Cuidados Intensivos (UCI), el cual se realizará los días 16, 17 y 18 de Noviembre del año en curso en el Hotel Galería Plaza de la hermosa Ciudad de México.
+El Grupo de Interés Especial en EEG continuo del Capítulo Latinoamericano de la Federación Internacional de Neurofisiología Clínica (CLA-IFCN) tiene tiene el gusto de invitarlos a la 3ra edición del taller itinerante sobre **Monitorización de EEG continuo unidades de cuidados intensivos** que se realizará los días 30 y 31 de Octubre en Bogotá, Colombia.
+
+
+*****
+Sede
+*****
+**Auditorio Rosa Alba Pacheco - Fundación Santa Fé de Bogotá**
+
+.. image:: images/auditorio.jpg
 
 
 *************
@@ -21,45 +27,28 @@ Coordinadores
 
 **Nacionales**
 
-* Dr Mario Ulises Avila Ordoñez
-* Dr Jaime Arango Aguilar
-* Dr Daniel San Juan Orta
-* Dr Sabiono Suárez Hortiales
+* Dr Jorge Carrioza González, Coordinador Académico de Programa de Medicina Crítica y Cuidado Intensivo, Universidad del Rosario
 
-**Externos**
+**Internacionales**
 
 * Dr Valia Rodríguez, Sociedad Cubana de Neurofisiología Clínica
 * Dr Suzette M LaRoche, Sociedad Americana de Neurofisiología Clínica
+
+
 
 ***********
 Motivación
 ***********
 
-La monitorización de EEG continuo en los cuidados intensivos es un campo de la monitorización neurofisiológica que crece y se expande dada su utilidad en la evaluación neurológica del
-paciente grave. Sin embargo existe gran disparidad en la práctica y uso de
-esta técnica entre instituciones y profesionales. El nivel de
-conocimiento y experticidad en la interpretación en tiempo real -o casi real-
-de los patrones que se encuentran durante la adquisición del EEGc no es sólo
-limitada sino también desigual entre países y regiones geográficas. Mientras
-que el número de instituciones en norteamérica (ie: EUA y Canadá) y algunos
-países europeos que utilizan el video-EEGc con todas sus ventajas actuales
-(ej: revisión/edición en línea y remota, análisis cuantitativo en línea,
-gráficos de tendencias, entre otras) han incrementado de forma significativa
-en los últimos 5 años, la mayoría de las instituciones de salud en América
-Latina -aún en el nivel terciario de atención- utilizan el EEG de rutina, de
-corta duración (por lo general menos de 2 hrs) con revisión sólo cualitativa
-del registro adquirido en UCI. Pensamos que entre las razones fundamentales que han contribuido al
-atraso tecnológico de la región están la falta de consciencia general de la
-potencialidad de la técnica y el acceso limitado a programas de educación
-continuada en este tema. Es así que este taller itinerante, que tuvo su primera edición exitosa en Noviembre del 2016 en La Habana Cuba, forma parte del esfuerzo por entrenar y capacitar a los profesionales de nuestra región de forma continuada en esta temática. 
+Como parte de los esfuerzos para contribuir a la capacitación de los profesionales de Latinoamericana en la monitorización de EEG continuo en UCI este taller latinoamericano itinerante se celebra cada año en un país diferente de la región con el auspicio del CLA-IFCN y de la Sociedad Norteamericana de Neurofisiología Clínica.
 
-Las conferencias del taller serán dictadas por
-expertos del campo, gracias a la colaboración de miembros de sociedades latinoamericanas y de la Sociedad
-Norteamericana de Neurofisiología Clínica (SANFS, en inglés ACNS). Los participantes tendrán
-además la posibilidad de interactuar con los expertos en presentaciones de
-casos, discusiones y recesos. Este año además se realizarán 3 talleres prácticos al final de cada día donde los participantes tendrán la oportunidad de profundizar en diferentes temas.
+La monitorización de EEG continuo en los cuidados intensivos es un campo de la monitorización neurofisiológica que crece y se expande dada su utilidad en la evaluación neurológica del paciente grave. No obstante, existe gran disparidad en la práctica y uso de esta técnica entre instituciones y profesionales. Con el propósito de reducir la brecha en los conocimientos e incrementar la consciencia de la potencialidad de esta técnica a través de un programa de educación
+continuada, este taller reune anualmente un colectivo de expertos encabezados por profesores de Estados Unidos, Cuba y la sociedad coordinadora local.
 
-Estamos convencidos que el éxito de este taller -como el éxito de la edición anterior y de ediciones sucesivas- influirá en el nivel y calidad de la atención médica en la America Latina.
+
+En el taller los participantes tendrán la posibilidad de interactuar con los expertos en presentaciones de casos, discusiones y recesos. 
+
+Estamos convencidos que el éxito de este taller -como el éxito de las ediciones anteriores y las sucesivas- influirá en el nivel y calidad de la atención médica en la America Latina.
 
 
 ***********************
@@ -77,16 +66,11 @@ Dirigido a:
 ***********
 
 * especialistas y residentes de neurología, pediatría, neonatología,
-  neurofisiología clínica, cuidados intensivos/emergentes;
+  neurofisiología clínica, cuidados intensivos y emergentes;
 * técnicos en neurofisiología clínica y enfermeras intensivistas.
 
 
 
-****
-Sede
-****
-
-`Hotel Galeria Plaza, Ciudad de Mexico, México <https://www.galeriaplazahotels.com.mx/es/reforma/gallery/>`_
 
 
 
@@ -101,3 +85,4 @@ Sede
     auspician
     informacion
     previo
+    proximo

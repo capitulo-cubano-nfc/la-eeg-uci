@@ -13,15 +13,6 @@ Andrea Lowden, MD
 * Consultante en Epilepsia Pediátrica. División de Neurología Pediátrica. Centro Medico UT Southwestern
 * Sociedad Americana de Neurología
 
-*********************
-Courtney Wusthoff, MD
-*********************
-
-.. image:: images/courtney.png
-    :width: 100 px
-
-* Profesor Asistente de Neurología y Pediatría -neonatología.  Centro Médico de la Universidad de Stanford
-* Sociedad Americana de Neurofisiología Clínica
 
 *****************
 Emily Gilmore, MD
@@ -33,15 +24,6 @@ Emily Gilmore, MD
 * Profesor Asociado de Neurología. Neurointensivista. Hospital New Haven-Yale Universidad de Yale
 * Sociedad Americana de Cuidados Neurocríticos
 
-************************
-Naymee J Vélez-Ruiz, MD
-************************
-
-.. image:: images/NaymeeV2.jpg
-    :width: 100 px
-
-* Profesor Asociado de Neurología. Universidad de Miami
-* Sociedad Americana de Neurología
 
 ***********************
 Nicholas S Abend, MD

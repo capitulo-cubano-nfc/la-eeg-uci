@@ -2,51 +2,15 @@
 Inscripciones
 #############
 
+**Contactar a:**
+
+*Dr Jorge Carrioza Gonzalez*
+  
+magnusdronjak@hotmail.com
+
 
 *********************
 Cuotas de Inscripción
 *********************
+**Será anunciado próximamente**
 
-+----------------------+-------------------------+-------------------------------+
-|                      | HASTA EL 30 Octubre 2017| A PARTIR DEL 1 Noviembre 2017 |
-+======================+=========================+===============================+
-| Socios               | 3000 Pesos Mexicanos    | 3500 Pesos Mexicanos          |
-+----------------------+-------------------------+-------------------------------+
-|No Socios             |                         |                               |
-|y Soc con adeudo      | 3500 Pesos Mexicanos    |4000 Pesos Mexicanos           |
-+----------------------+-------------------------+-------------------------------+
-|Residentes            | 2000 Pesos Mexicanos    | 2500 Pesos Mexicanos          |
-+----------------------+-------------------------+-------------------------------+
-|Técnicos Socios       | 1500 Pesos Mexicanos    | 1800 Pesos Mexicanos          |
-+----------------------+-------------------------+-------------------------------+
-|Técnicos              | 1800 Pesos Mexicanos    | 2200 Pesos Mexicanos          | 
-+----------------------+-------------------------+-------------------------------+    
-|Enfermeras(os) y      |                         |                               |
-|otro personal de salud| 1800 Pesos Mexicanos    | 2200 Pesos Mexicanos          |
-+----------------------+-------------------------+-------------------------------+
-
-La cuota de inscripción puede ser abonada 'onsite' o pagarse por adelantado a través de transferencia bancaria a:
-
-**Beneficiario:** Sociedad Mexicana de Neurofisiología
-Clínica, A. C
-
-**Banco:** Banorte IXE
-
-**No. de cuenta:** 16033795
-
-**CLAVE para transferencia:** 072 180 00016033795 6
-
-
-******************
-Datos de Contacto:
-******************
-
-SOCIEDAD MEXICANA DE NEUROFISIOLOGIA CLINICA, A.C
-
-Tel. 5523-4891
-
-Miami 47, Col. Nápoles, Benito Juárez, C. P 03810, Ciudad de México
-
-http://www.smnfc.com
-
-E-mail: smnfc1@yahoo.com.mx

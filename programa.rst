@@ -9,7 +9,7 @@ Programa Preliminar
 
 * Crisis y estatus epiléptico en los adultos (Seizures and Status Epilepticus in Adults)
 
-* Patrones rítmicos  y periódicos. Terminologpia de la SANFC (Rhythmic & Periodic Patterns. ACNS Terminology)
+* Patrones rítmicos  y periódicos. Terminología de la SANFC (Rhythmic & Periodic Patterns. ACNS Terminology)
 
 * El continuo ictal-interictal (Ictal – Interictal continuum)
 
@@ -26,6 +26,8 @@ Programa Preliminar
 * Manejo de las crisis y el estatus epiléptico en edades pediátricas (Management of Seizures and Status in Children)
 
 * Valor pronóstico del EEGc en neonatos y edades pediátricas (cEEG - Prognosis in Children & Neonates)
+
+* Artefactos en UCI (Artifacts in ICU)
 
 * EEG cuantitativo. Herramientas y métodos disponibles para la monitorización en UCI (Quantitative EEG - Overview of Available Tools & Uses)
 
