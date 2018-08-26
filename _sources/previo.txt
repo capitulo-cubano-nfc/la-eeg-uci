@@ -3,37 +3,28 @@ Ediciones Anteriores
 ####################
 
 ****
+2017
+****
+
+Con el auspicio de la Sociedad Mexicana de Neurofisiología Clínica -SMNFC- realizamos el 2do Taller en la hermosa Ciudad de México entre los días 16 y 18 de Noviembre del 2017. En este taller participaron 85 profesionales nacionales e internacionales de diferentes especialidades médicas (neurofisiología clínica, medicina crítica y neurología) así como técnicos y residentes de neurofisiología clínica; a estos últimos la SMNFC les otorgó 8 becas completas de asistencia.
+
+Además del colectivo itinerante del taller, 7 expertos neurofisiólogos mexicanos se nos unieron presentando  trabajos clínicos en esta área, discusión de casos clínicos y talleres interactivos. Durante el evento contamos con el apoyo y exposición de las principales casas comerciales de equipos para la monitorización de EEG en UCI.
+
+Esperamos que los resultados de este esfuerzo conjunto se vea reflejado en la mayor difusión e implementación de estos avances tecnológicos y científicos en los pacientes en estado crítico que son atendidos diariamente en los hospitales mexicanos y de otros países de Latinoamérica.
+
+
+
+.. image:: images/mexico.png
+
+
+****
 2016
 ****
 
 
 El capítulo cubano de Neurofisiología Clínica (CC-NFC) tuvo el gusto de organizar el 1er Taller Latinoamericano de Monitorización de EEG continuo -EEGc- en Unidades de Cuidados Intensivos (UCI), los días 14 y 15 de Noviembre del 2016 en La Habana, Cuba.
 
-En el taller se impartieron 16 conferencias y se realizaron diversas presentaciones de casos que de forma interactiva contribuyeron al intercambio y acercamiento entre los participantes y el colectivo de profesores. El taller contó con 80 participantes de ellos 61 cubanos, 16 de hermanos países latino-americanos y 1 de África con la siguiente distribución por países:
-
-+-----------------+
-|  Argentina    2 |
-+-----------------+
-|  Angola       1 |
-+-----------------+
-|  Colombia     1 |
-+-----------------+
-|  Costa Rica   1 |
-+-----------------+
-|  Cuba        61 |
-+-----------------+
-|  Dominicana   1 |
-+-----------------+
-|  Ecuador      3 |
-+-----------------+
-|  Honduras     2 |
-+-----------------+
-|  México       2 |
-+-----------------+
-|  Perú         1 |
-+-----------------+
-|  Uruguay      3 |
-+-----------------+
+En el taller se impartieron 16 conferencias y se realizaron diversas presentaciones de casos que de forma interactiva contribuyeron al intercambio y acercamiento entre los participantes y el colectivo de profesores. El taller contó con 80 participantes de ellos 61 cubanos, 16 de hermanos países latino-americanos y 1 de África.
 
 Diversas especialidades estuvieron representadas en el taller, entre ellas los cuidados intensivos, la neurología, la neurofisiología clínica, la pediatría y la neonatología. La representación de diversas disciplinas médicas fue uno de los propósitos del taller porque solo con una mejor comprensión de las ventajas de este tipo de monitorización por parte de todas las especialidades relacionadas se podrá verdaderamente trabajar por mejorar la calidad de la atención al paciente crítico.
 
