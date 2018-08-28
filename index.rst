@@ -44,7 +44,7 @@ Como parte de los esfuerzos para contribuir a la capacitación de los profesiona
 
 La monitorización de EEG continuo en los cuidados intensivos es un campo de la neurofisiología clínica en expansión dada su utilidad en la evaluación neurológica del paciente grave. No obstante, existe gran disparidad en la práctica y uso de esta técnica entre instituciones y profesionales. Con el propósito de reducir la brecha en los conocimientos e incrementar la consciencia de la potencialidad de esta área emergente de la neurofisiología clínica a través de un programa de educación continuada, este taller reune anualmente un colectivo de expertos encabezados por profesores de Estados Unidos, Cuba y la sociedad latinoamericana coordinadora local.
 
-Además de recibir conferencias actualizadas en temas fundamentales de la monitorización de EEGc, los participantes del taller tienen la posibilidad de interactuar con los expertos en presentaciones de casos, discusiones y recesos, así como interactuar con las casas comerciales que exponen lo más actual de la tecnología disponible. 
+Además de recibir conferencias actualizadas en temas fundamentales de la monitorización de EEGc, los participantes del taller tienen la posibilidad de intercambiar con los expertos en presentaciones de casos, discusiones y recesos, así como interactuar con las casas comerciales que exponen lo más actual de la tecnología disponible. 
 
 Estamos convencidos que el éxito de este taller -como el éxito de las ediciones anteriores y las sucesivas- influirá en el nivel y calidad de la atención médica en los cuidados al paciente crítico en America Latina y el Caribe.
 
