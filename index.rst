@@ -3,62 +3,72 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-#######################################################################################
-1er Taller Latinoamericano de Monitorización de EEG continuo en los cuidados intensivos
-#######################################################################################
+#############################################################################################
+4to Curso-Taller Latinoamericano de Monitorización de EEG continuo en los cuidados intensivos
+#############################################################################################
 
-**14-15 Noviembre, La Habana, Cuba**
+**13 y 14 de Noviembre 2019, Habana, Cuba**
 
 
-El capítulo cubano de Neurofisiología Clínica (CC-NFC) tuvo el gusto de
-organizar el 1er Taller Latinoamericano de Monitorización de EEG continuo -EEGc- en Unidades de Cuidados Intensivos (UCI), los días 14 y 15 de Noviembre del año en curso en La Habana, Cuba.
+El Grupo de Interés Especial en EEG continuo del Capítulo Latinoamericano de la Federación Internacional de Neurofisiología Clínica (CLA-IFCN) tiene tiene el gusto de invitarlos a la 4ta edición del curso-taller itinerante sobre **Monitorización de EEG continuo unidades de cuidados intensivos** que se realizará los días 13 y 14 de Octubre en Habana, Cuba.
+
+
+*****
+Sede
+*****
+**Hospital Clínico-Quirúrgico "Hnos Ameijeiras**
+
+.. image:: images/auditorio.jpg
+
 
 *************
 Coordinadores
 *************
 
-* Dr Valia Rodríguez, Centro de Neurociencias de Cuba - Capítulo Cubano de Neurofisiología Clínica
-* Dr Suzette M LaRoche, Mission Health, Asheville-Carolina del Norte, EUA - Sociedad Americana de Neurofisiología Clínica
+**Nacionales**
+
+* Dr Lilliam Rojas Zuaznabar, Sociedad Cubana de Neurofisiología Clínica
+* Dr Valia Rodríguez, Sociedad Cubana de Neurofisiología Clínica
+
+**Internacionales**
+
+* Dr Suzette M LaRoche, Sociedad Americana de Neurofisiología Clínica
+
+
 
 ***********
-Relatoría
+Motivación
 ***********
 
-En el taller se impartieron 16 conferencias y se realizaron diversas presentaciones de casos que de forma interactiva contribuyeron al intercambio y acercamiento entre los participantes y el colectivo de profesores. En el enlace **Conferencias Impartidas** pueden acceder al contenido de las mismas en formato pdf.
+Como parte de los esfuerzos para contribuir a la capacitación de los profesionales de Latinoamericana en la monitorización de EEG continuo en UCI este taller latinoamericano itinerante se celebra cada año en un país diferente de la región con el auspicio del CLA-IFCN y de la Sociedad Norteamericana de Neurofisiología Clínica.
 
-El taller contó con 80 participantes de ellos 61 cubanos, 16 de hermanos países latino-americanos y 1 de África con la siguiente distribución por países:
+La monitorización de EEG continuo en los cuidados intensivos es un campo de la neurofisiología clínica en expansión dada su utilidad en la evaluación neurológica del paciente grave. No obstante, existe gran disparidad en la práctica y uso de esta técnica entre instituciones y profesionales. Con el propósito de reducir la brecha en los conocimientos e incrementar la consciencia de la potencialidad de esta área emergente de la neurofisiología clínica a través de un programa de educación continuada, este taller reune anualmente un colectivo de expertos encabezados por profesores de Estados Unidos, Cuba y la sociedad latinoamericana coordinadora local.
 
-+-----------------+
-|  Argentina    2 |
-+-----------------+
-|  Angola       1 |
-+-----------------+
-|  Colombia     1 |
-+-----------------+
-|  Costa Rica   1 |
-+-----------------+
-|  Cuba        61 |
-+-----------------+
-|  Dominicana   1 |
-+-----------------+
-|  Ecuador      3 |
-+-----------------+
-|  Honduras     2 |
-+-----------------+
-|  México       2 |
-+-----------------+
-|  Perú         1 |
-+-----------------+
-|  Uruguay      3 |
-+-----------------+
+Además de recibir conferencias actualizadas en temas fundamentales de la monitorización de EEGc, los participantes del taller tienen la posibilidad de intercambiar con los expertos en presentaciones de casos, discusiones y recesos, así como interactuar con las casas comerciales que exponen lo más actual de la tecnología disponible. 
 
-Diversas especialidades estuvieron representadas en el taller, entre ellas los cuidados intensivos, la neurología, la neurofisiología clínica, la pediatría y la neonatología. La representación de diversas disciplinas médicas fue uno de los propósitos del taller porque solo con una mejor comprensión de las ventajas de este tipo de monitorización por parte de todas las especialidades relacionadas se podrá verdaderamente trabajar por mejorar la calidad de la atención al paciente crítico.
-
-Dado el éxito y acogida de este evento el colectivo de profesores reunidos en este 1er Taller tiene el propósito de llevar el mismo a otros países del área para contribuir a la educación continuada de los profesionales de la región y a la difusión de las bondades de esta técnica.
+Estamos convencidos que el éxito de este taller -como el éxito de las ediciones anteriores y las sucesivas- influirá en el nivel y calidad de la atención médica en los cuidados al paciente crítico en America Latina y el Caribe.
 
 
-.. image:: images/Taller.jpg
-    
+***********************
+Organización del Taller
+***********************
+El taller estará organizado en conferencias, presentaciones de casos, talleres prácticos y discusiones que cubrirán dos jornadas -días- de trabajo a tiempo completo.
+
+Los idiomas oficiales del taller serán el inglés y el español.
+
+Para las sesiones de discusión, así como para las preguntas y respuestas, se contará con servicio de traducción.
+
+
+***********
+Dirigido a:
+***********
+
+* especialistas y residentes de neurología, pediatría, neonatología,
+  neurofisiología clínica, cuidados intensivos y emergentes;
+* técnicos en neurofisiología clínica y enfermeras intensivistas.
+
+
+
 
 
 
@@ -69,4 +79,8 @@ Dado el éxito y acogida de este evento el colectivo de profesores reunidos en e
 
     profesores
     programa
-    
+    inscripcion
+    auspician
+    informacion
+    previo
+    proximo

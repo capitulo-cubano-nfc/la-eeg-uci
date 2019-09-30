@@ -25,6 +25,6 @@ Auspician
 ------------------------------------
 ------------------------------------
 
-.. image:: images/CNEURO.jpg
-	:width: 100 px
-`Centro de Neurociencias de Cuba, CNEURO <http://www.cneuro.cu/cneuro/>`_
+.. image:: images/Ameijeiras1.jpg
+	:width: 400 px
+`Hospital Clínico-Quirúrgico "Hnos Ameijeiras", <http://www.hospitalameijeiras.sld.cu/>`_

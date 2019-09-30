@@ -1,50 +1,41 @@
 ﻿#######################
-Conferencias Impartidas
+Programa Preliminar
 #######################
 
 
-**Indicaciones, Protocolos y Guías para la monitorización de EEG continuo en UCI** 
-* :download:`EEGc_guias.pdf` 
+* Introducción a la monitorización de EEGc en UCI en todas las edades 
 
-**Consideraciones técnicas: equipamiento y personal**
-* :download:`EEGc_tecnica.pdf` 
+* El EEGc en adultos. Evaluación de la actividad de fondo, reactividad y patrones de sueño 
 
-**El EEG de base en neonatos y niños** 
-* :download:`EEG_neonatos_niños.pdf` 
+* Crisis y estatus epiléptico en los adultos 
 
-**El EEG de base en adultos**
-* :download:`EEG_adultos.pdf` 
+* Patrones rítmicos  y periódicos. Terminología de la SANFC 
 
-**Patrones periódicos y rítmicos. Terminología** 
-* :download:`EEGc_terminologia.pdf` 
+* El continuo ictal-interictal 
 
-**Crisis y estatus epiléptico en adultos**
-* :download:`StatusEpileptico_adulto.pdf` 
+* Valor pronóstico del EEGc en el adulto grave 
 
-**Crisis y estatus epiléptico en neonatos y niños**
-* :download:`StatusEpileptico_adulto.pdf` 
+* Manejo del estatus epiléptico refractario y el estatus superrefractario. Estatus epiléptico de inicio reciente
 
-**El continuo ictal**interictal**
-* :download:`EEGc_IIC.pdf` 
+* El EEGc en neonatos 
 
-**Estatus epiléptico refractario y el estatus epiléptico refractario de reciente instalación**
-* :download:`StatusRefractario_NuevaAparicion.pdf` 
+* El EEGc en edades pediátricas 
 
-**El EEG continuo como herramienta pronóstica en adultos**
-* :download:`EEGc_pronostico_adultos.pdf` 
+* Manejo de las crisis y el estatus epiléptico en neonatos 
 
-**El EEG continuo como herramienta pronóstica en neonatos y niños**  * :download:`EEG_pronostico_neonatosniños.pdf` 
+* Manejo de las crisis y el estatus epiléptico en edades pediátricas 
 
-**Los artefactos en el EEG de la UCI**
-* :download:`EEGc_artefactosUCI.pdf` 
+* Valor pronóstico del EEGc en neonatos y edades pediátricas 
 
-**Generalidades de EEG cuantitativo**
-* :download:`EEGc_cuantitativo.pdf` 
+* Artefactos en UCI 
 
-**El EEG cuantitativo en la detección de crisis**
-* :download:`EEGc_cuantitativo_crisis.pdf`
+* EEG cuantitativo. Herramientas y métodos disponibles para la monitorización en UCI 
 
-**El EEG cuantitativo en la detección de isquemia**
-* :download:`EEGc_cuantitativo_isquemia.pdf`
+* El EEG cuantitativo en la detección de crisis 
 
-**Otras modalidades de neuromonitorización en la UCI**
+* El EEG cuantitativo en la detección de isquemia 
+
+* Guías de la SANFC para la monitorización de EEGc en UCI 
+
+* Otros tipo de neuromonitorizacion en UCI 
+ 

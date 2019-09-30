@@ -2,9 +2,6 @@
 Alojamiento
 ###########
 
-El turismo en La Habana se ha incrementado enormemente a partir de Diciembre del 2015 por lo que en ocasiones es difícil encontrar un alojamiento económico. ¡Le sugerimos reserve su habitación con tiempo suficiente!.
-
-
 Debajo listamos algunos sitios que pueden ser de utilidad para encontrar alojamiento en La Habana.
 
 **Si prefieres una Casa de Huéspedes te recomendamos estos sitios de abajo:**
