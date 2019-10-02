@@ -7,7 +7,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     
-    <title>Próxima Edición &mdash; Curso LA de Monitorización de EEGc-UCI</title>
+    <title>Working on the course website &mdash; Curso LA de Monitorización de EEGc-UCI</title>
     
     <link rel="stylesheet" href="_static/bizstyle.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
@@ -28,7 +28,6 @@
     <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
     <script type="text/javascript" src="_static/bizstyle.js"></script>
     <link rel="top" title="Curso LA de Monitorización de EEGc-UCI" href="index.html" />
-    <link rel="prev" title="Ediciones Anteriores" href="previo.html" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <!--[if lt IE 9]>
     <script type="text/javascript" src="_static/css3-mediaqueries.js"></script>
@@ -41,9 +40,6 @@
         <li class="right" style="margin-right: 10px">
           <a href="genindex.html" title="Índice General"
              accesskey="I">índice</a></li>
-        <li class="right" >
-          <a href="previo.html" title="Ediciones Anteriores"
-             accesskey="P">anterior</a> |</li>
         <li class="nav-item nav-item-0"><a href="index.html">Curso LA de Monitorización de EEGc-UCI</a> &raquo;</li> 
       </ul>
     </div>
@@ -81,14 +77,12 @@
 <P> 
 </P>
 <H4 CLASS="western">Tabla de Contenidos</H4>
-<P><ul class="current">
+<P><ul>
 <li class="toctree-l1"><a class="reference internal" href="profesores.html">Profesores</a></li>
 <li class="toctree-l1"><a class="reference internal" href="programa.html">Programa Preliminar</a></li>
 <li class="toctree-l1"><a class="reference internal" href="inscripcion.html">Inscripciones</a></li>
 <li class="toctree-l1"><a class="reference internal" href="auspician.html">Auspician</a></li>
 <li class="toctree-l1"><a class="reference internal" href="informacion.html">Información de Interés</a></li>
-<li class="toctree-l1"><a class="reference internal" href="previo.html">Ediciones Anteriores</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="">Próxima Edición</a></li>
 </ul>
   
 </P>
@@ -102,12 +96,52 @@
         <div class="bodywrapper">
           <div class="body" role="main">
             
-  <div class="section" id="proxima-edicion">
-<h1>Próxima Edición<a class="headerlink" href="#proxima-edicion" title="Enlazar permanentemente con este título">¶</a></h1>
-<p><strong>4to Taller Latinoamericano Itinirante de Monitorización de EEG continuo en UCI</strong></p>
-<p><strong>VIII Congreso Latinoamericano de Neurofisiología Clínica</strong></p>
-<p><strong>Sao Paulo, Brazil - 14-17 de Agosto 2019</strong></p>
-<img alt="_images/saopaulo.jpg" src="_images/saopaulo.jpg" />
+  <div class="section" id="working-on-the-course-website">
+<h1>Working on the course website<a class="headerlink" href="#working-on-the-course-website" title="Enlazar permanentemente con este título">¶</a></h1>
+<p>In <code class="docutils literal"><span class="pre">cmd</span></code> shell:</p>
+<div class="highlight-python"><div class="highlight"><pre><span></span>cd c:\Users\valia\la-eeg-uci
+</pre></div>
+</div>
+<p>To set the proxy:</p>
+<div class="highlight-python"><div class="highlight"><pre><span></span><span class="n">set_proxy</span>
+</pre></div>
+</div>
+<p>If you need to edit password etc, see c:binset_proxy.bat</p>
+<p>To get all the latest changes from github:</p>
+<div class="highlight-python"><div class="highlight"><pre><span></span>git pull
+</pre></div>
+</div>
+<p>To see what needs to be done</p>
+<blockquote>
+<div>git status</div></blockquote>
+<p>Change what you want to change in the <code class="docutils literal"><span class="pre">c:\Users\valia\la-eeg-uci</span></code> folder.</p>
+<p>Check what changes you have made to the files with:</p>
+<div class="highlight-python"><div class="highlight"><pre><span></span>git diff
+</pre></div>
+</div>
+<p>Check how the changes will look with:</p>
+<div class="highlight-python"><div class="highlight"><pre><span></span>make html
+</pre></div>
+</div>
+<p>Then open the address
+<code class="docutils literal"><span class="pre">file://C:/Users/valia/la-eeg-uci/_build/html/index.html</span></code> in the web browser
+to see the website as it will look when pushed to github.</p>
+<p>When you&#8217;re happy with the changes, check them again:</p>
+<div class="highlight-python"><div class="highlight"><pre><span></span>git diff
+</pre></div>
+</div>
+<p>If they all look OK:</p>
+<div class="highlight-python"><div class="highlight"><pre><span></span>git commit -a -m &quot;Your message about the changes&quot;
+</pre></div>
+</div>
+<p>Send these changes to the source files up to github:</p>
+<div class="highlight-python"><div class="highlight"><pre><span></span>git push
+</pre></div>
+</div>
+<p>To publish the new changed files up to the website:</p>
+<div class="highlight-python"><div class="highlight"><pre><span></span>make github
+</pre></div>
+</div>
 </div>
 
 
@@ -122,9 +156,6 @@
         <li class="right" style="margin-right: 10px">
           <a href="genindex.html" title="Índice General"
              >índice</a></li>
-        <li class="right" >
-          <a href="previo.html" title="Ediciones Anteriores"
-             >anterior</a> |</li>
         <li class="nav-item nav-item-0"><a href="index.html">Curso LA de Monitorización de EEGc-UCI</a> &raquo;</li> 
       </ul>
     </div>
