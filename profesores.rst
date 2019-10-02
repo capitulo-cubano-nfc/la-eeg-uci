@@ -2,6 +2,42 @@
 Profesores
 ##########
 
+*****************
+Andrea Lowden, MD
+*****************
+.. image:: images/Andrea.png
+    :width: 100 px
+
+* Consultante en Epilepsia Pediátrica. División de Neurología Pediátrica. Centro Medico UT Southwestern
+* Sociedad Americana de Neurología
+
+
+*********************
+Courtney Wusthoff, MD
+*********************
+.. image:: images/courtney.png
+    :width: 100 px
+
+* Profesor Asistente de Neurología y Pediatría -neonatología.  Centro Médico de la Universidad de Stanford
+* Sociedad Americana de Neurofisiología Clínica
+
+*****************
+Emily Gilmore, MD
+*****************
+.. image:: images/gilmore.jpg
+    :width: 100 px
+
+* Profesor Asociado de Neurología. Neurointensivista. Hospital New Haven-Yale Universidad de Yale
+* Sociedad Americana de Cuidados Neurocríticos
+
+************************
+Naymee J Vélez-Ruiz, MD
+************************
+.. image:: images/NaymeeV2.jpg
+    :width: 100 px
+
+* Profesor Asociado de Neurología. Universidad de Miami
+* Sociedad Americana de Neurología
 
 ***********************
 Nicholas S Abend, MD
@@ -15,19 +51,18 @@ Nicholas S Abend, MD
 * Miembro del Consorcio de Investigación con EEG en los cuidados críticos
 
 *****************
-Emily Gilmore, MD
+Sarah Schmitt, MD
 *****************
-
-.. image:: images/gilmore.jpg
+.. image:: images/Schmitt-Sarah-Neurology.jpg
     :width: 100 px
 
-* Profesor Asociado de Neurología. Neurointensivista. Hospital New Haven-Yale Universidad de Yale
-* Sociedad Americana de Cuidados Neurocríticos
+* Profesor Asociado de Neurología. Universidad Médica de Carolina del Sur
+* Sociedad Americana de Neurofisiología Clínica
+* Miembro del Consorcio de Investigación con EEG en los cuidados críticos
 
 ******************
 Susan T Herman, MD
 ******************
-
 .. image:: images/SHerman.jpg
     :width: 100 px
 
@@ -38,7 +73,6 @@ Susan T Herman, MD
 *********************
 Suzette M Laroche, MD
 *********************
-
 .. image:: images/LaRoche.jpg
     :width: 100 px
 
@@ -47,55 +81,11 @@ Suzette M Laroche, MD
 * Ex-Director y Miembro del Consorcio de Investigación con EEG en los cuidados críticos
 * Editor del Handbook of ICU EEG Monitoring, 2013 Demos Publishing
 
-*****************
-Andrea Lowden, MD
-*****************
-
-.. image:: images/Andrea.png
-    :width: 100 px
-
-* Consultante en Epilepsia Pediátrica. División de Neurología Pediátrica. Centro Medico UT Southwestern
-* Sociedad Americana de Neurología
-
-*****************
-Sarah Schmitt, MD
-*****************
-
-.. image:: images/Schmitt-Sarah-Neurology.jpg
-    :width: 100 px
-
-* Profesor Asociado de Neurología. Universidad Médica de Carolina del Sur
-* Sociedad Americana de Neurofisiología Clínica
-* Miembro del Consorcio de Investigación con EEG en los cuidados críticos
-
 ***********************
 Valia Rodriguez, MD PhD
 ***********************
-
-.. image:: images/ValiaRodriguez.png
+.. image:: images/Valia.jpg
     :width: 100 px
 
-* Profesor de Neurofisiología Universidad de Aston, Birmingham. Profesor Adjunto del Centro de Neurociencias de Cuba.
+* Profesor Asociado de Neurofisiología. Universidad de Aston, Birmingham. Profesor Adjunto del Centro de Neurociencias de Cuba.
 * Sociedad Cubana de Neurofisiología Clínica
-
-************************
-Naymee J Vélez-Ruiz, MD
-************************
-
-.. image:: images/NaymeeV2.jpg
-    :width: 100 px
-
-* Profesor Asociado de Neurología – Universidad de Miami
-* Experto en Monitorización de EEG continuo en UCI
-
-*********************
-Courtney Wusthoff, MD
-*********************
-
-.. image:: images/courtney.png
-    :width: 100 px
-
-* Profesor Asistente de Neurología y Pediatría -neonatología.  Centro Médico de la Universidad de Stanford
-* Sociedad Americana de Neurofisiología Clínica
-
-

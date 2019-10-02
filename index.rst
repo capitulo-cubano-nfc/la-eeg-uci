@@ -10,15 +10,17 @@
 **13 y 14 de Noviembre 2019, Habana, Cuba**
 
 
-El Grupo de Interés Especial en EEG continuo del Capítulo Latinoamericano de la Federación Internacional de Neurofisiología Clínica (CLA-IFCN) tiene tiene el gusto de invitarlos a la 4ta edición del curso-taller itinerante sobre **Monitorización de EEG continuo unidades de cuidados intensivos** que se realizará los días 13 y 14 de Octubre en Habana, Cuba.
+El Grupo de Interés Especial en EEG continuo del Capítulo Latinoamericano de la Federación Internacional de Neurofisiología Clínica (CLA-IFCN) tiene tiene el gusto de invitarlos a la 4ta edición del curso-taller itinerante sobre **Monitorización de EEG continuo unidades de cuidados intensivos** que se realizará los días 13 y 14 de Noviembre en Habana, Cuba.
 
 
 *****
 Sede
 *****
-**Hospital Clínico-Quirúrgico "Hnos Ameijeiras**
 
-.. image:: images/auditorio.jpg
+**Auditorium, Hospital Clínico-Quirúrgico "Hnos Ameijeiras**
+
+.. image:: images/HHA2.jpg
+	:width: 600 px
 
 
 *************

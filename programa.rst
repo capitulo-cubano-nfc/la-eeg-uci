@@ -2,7 +2,6 @@
 Programa Preliminar
 #######################
 
-
 * Introducción a la monitorización de EEGc en UCI en todas las edades 
 
 * El EEGc en adultos. Evaluación de la actividad de fondo, reactividad y patrones de sueño 
